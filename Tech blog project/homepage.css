@@ -23,6 +23,7 @@ body{
     padding: 20px;
     font-size: 30px;
     width: auto;
+    flex: 1;
     /* margin-left: 100px; */
 }
 .flex-container:hover{
